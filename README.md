@@ -14,12 +14,12 @@ WordPress.
 2. Theme: Improved business company or online system website
 3. The website must include all information below:
   -Technical design
-    -At least five menus, e.g. Home, About Us, Services, Projects, Contact.
-    -One creative banner.
-    -One interactive animation for advertisement.
-    -Hypertext and hypermedia functionality, e.g. available links to other website.
-    -Use five elements of multimedia, i.e. text, graphic, sound, video, animation.
+   -At least five menus, e.g. Home, About Us, Services, Projects, Contact.
+   -One creative banner.
+   -One interactive animation for advertisement.
+   -Hypertext and hypermedia functionality, e.g. available links to other website.
+   -Use five elements of multimedia, i.e. text, graphic, sound, video, animation.
   -Company organization must be included on the website under About Us menu
-    -Member’s profile.
-    -Organizations Structure.
+   -Member’s profile.
+   -Organizations Structure.
   -Published on free domain at such as Google Sites or Free Web Hosting
