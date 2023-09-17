@@ -1,4 +1,4 @@
-# TEKHN-LOGIA
+#  [TEKHN-LOGIA]([https://pages.github.com/](http://tekhnelogiaofmodernera.mystrikingly.com/.)).
 
 ## Introduction 
 
